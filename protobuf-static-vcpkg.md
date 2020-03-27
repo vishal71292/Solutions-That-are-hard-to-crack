@@ -1,4 +1,4 @@
-#Issue Faced:
+# Issue Faced:
 
   Msvcp140.dll is missing 
   
@@ -7,7 +7,7 @@
   keywords :  c++    visual stido   vcpkg     protobuf    
   
   
-#Solution :
+# Solution :
 
   Remove earlier installed vcpk package for protobuf and use the following command
   
